@@ -1,6 +1,6 @@
 # Travel Advisor
 
-https://thegoogletravelcompanion.netlify.app/
+## Live site - https://thegoogletravelcompanion.netlify.app/
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
