@@ -2,7 +2,7 @@
 
 ## Live site - https://thegoogletravelcompanion.netlify.app/
 
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+![Travel Advisor](https://www.linkpicture.com/q/gtc.jpg)
 
 ## Introduction
 This is a Travel Companion Application using Google Maps. It uses Geolocation, Google Maps API, Searching for places in order to fetch restaurants, hotels and attractions based on location from specialized Rapid APIs and data filtering.
