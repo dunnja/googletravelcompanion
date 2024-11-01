@@ -1,3 +1,5 @@
+# API KEY NO LONGER WORKING SO MAP WILL NOT LOAD
+
 # Travel Advisor
 
 ## Live site - https://thetraveladvisor.netlify.app/
